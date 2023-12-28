@@ -1,3 +1,3 @@
-Esse repositório é destinado a projetos de Machine Learning  e Desafios realizados do Kaggle.
+Bem vindo(a)!
 
-==== Acessar a aba Branches para ver o conteúdo de forma segregada ====
+Esse repositório é destinado a Introdução inicial ao curso de Machine Learning disponível no Kaggle.
